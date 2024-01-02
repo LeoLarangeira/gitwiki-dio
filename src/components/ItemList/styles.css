@@ -1,0 +1,39 @@
+:root{
+    --font-family-handjet:'Handjet', sans-serif;
+    --font-family-roboto-condensed:'Roboto Condensed', sans-serif;
+    --font-family-roboto-vt323:'VT323', monospace;
+}
+.ItemList{
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+   
+   
+
+}
+.ItemList h1{
+    font-family: var(--font-family-handjet);
+    font-size: 48px;
+
+    margin: 20px 0 20px 0;
+    color:white;
+
+}
+.ItemList p{
+    
+    font-family: var(--font-family-handjet);
+    color:white;
+}
+.ItemList hr{
+    width: 100%;
+    color:white;
+    
+}
+
+.remover {
+  font-family: var(--font-family-handjet);
+  color:white;
+  text-align: center;
+  
+}
